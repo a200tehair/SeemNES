@@ -13,11 +13,11 @@ For Windows:
 
 To boot up a cartridge, simply type in any file containing 6502 assembly, then hit enter
 
-== What this supports ==
+# What this supports
 Running most NES games  
 Being accurate enough to normal hardware
 
-== What this DOES NOT support ==
+# What this DOES NOT support
 TASing (yet)  
 Famicom Disk System (probably forever)
 100% Hardware Accuracy  
