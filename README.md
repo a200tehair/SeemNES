@@ -15,7 +15,7 @@ To boot up a cartridge, simply type in any file containing 6502 assembly, then h
 
 # What this supports
 Being accurate enough to normal hardware  
-Outputting decompiles  
+Outputting disassemblies  
 I didn't have much else to say here honestly  
 
 # What this DOES NOT support
