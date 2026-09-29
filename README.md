@@ -16,6 +16,7 @@ To boot up a cartridge, simply type in any file containing 6502 assembly, then h
 # What this supports
 Running most NES games  
 Being accurate enough to normal hardware
+I didn't have much else to say here honestly
 
 # What this DOES NOT support
 TASing (yet)  
