@@ -14,8 +14,8 @@ For Windows:
 To boot up a cartridge, simply type in any file containing 6502 assembly, then hit enter
 
 # What this supports
-Running most NES games  
 Being accurate enough to normal hardware  
+Outputting decompiles  
 I didn't have much else to say here honestly  
 
 # What this DOES NOT support
