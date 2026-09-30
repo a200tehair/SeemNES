@@ -20,6 +20,6 @@ I didn't have much else to say here honestly
 
 # What this DOES NOT support
 TASing (yet)  
-Famicom Disk System (probably forever)
+Famicom Disk System (probably forever)  
 100% Hardware Accuracy  
 Most of the 'unofficial' opcodes (currently only the stable ones are supported)  
