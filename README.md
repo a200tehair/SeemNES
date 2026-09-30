@@ -11,7 +11,7 @@ For Unix-like OSes:
 For Windows:  
 <code> raylua.exe control.lua </code>
 
-To boot up a cartridge, simply type in any file containing 6502 assembly, then hit enter
+To boot up a cartridge, simply type in any file containing 6502 assembly, then hit enter (once you've booted up the Lua runtime)
 
 # What this supports
 Being accurate enough to normal hardware  
